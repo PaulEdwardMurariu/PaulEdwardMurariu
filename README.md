@@ -36,7 +36,7 @@ In my free time I enjoy fitness, coding, and content creation!
 ### 📊 GitHub Stats:
 ![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulEdwardMurariu&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulEdwardMurariu&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PaulEdwardMurariu&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=PaulEdwardMurariu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
