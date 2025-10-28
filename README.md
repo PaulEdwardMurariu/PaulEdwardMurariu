@@ -13,7 +13,7 @@ Some of my favorite projects:
 - 🤖 **HMM Algorithm – Robot Localization** – a Python project implementing Bayesian filtering for position estimation.
 - ⚙️ **RESTful API Board Communication** – C firmware project for Acromag NT-Series devices handling login/session IDs and Modbus over Ethernet.
 
-In my free time I enjoy fitness, coding, content creation, reading, cooking, video games, photograph!
+In my free time I enjoy fitness, coding, content creation, cooking, reading, video games, and photography!
 
 ---
 
