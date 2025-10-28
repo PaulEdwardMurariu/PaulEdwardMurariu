@@ -60,8 +60,8 @@ In my free time I enjoy fitness, coding, and content creation!
 ---
 
 ### 💬 Random Dev Quote:
-> "Code is like humor. When you have to explain it, it’s bad."  
-> – Cory House
+> "Sometimes it is the people no one can imagine anything of who do the things no one can imagine."  
+> – Alan Turing
 
 ---
 
