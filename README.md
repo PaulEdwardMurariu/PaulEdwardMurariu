@@ -59,9 +59,25 @@ In my free time I enjoy fitness, coding, and content creation!
 
 ---
 
-### 💬 Random Dev Quote:
-> "Sometimes it is the people no one can imagine anything of who do the things no one can imagine."  
-> – Alan Turing
+### 🧠 Builder Mindset:
+
+<div style="background: linear-gradient(145deg, rgba(20,20,30,0.9) 0%, rgba(10,10,20,0.8) 100%);
+            border-radius: 8px;
+            padding: 16px 20px;
+            border: 1px solid rgba(255,255,255,0.08);
+            color: #E6EDF3;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.5;
+            font-size: 15px;">
+
+  <p style="margin: 0; font-style: italic; font-size: 16px; color: #7DF9FF;">
+    “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”
+  </p>
+
+  <p style="margin: 8px 0 0 0; text-align: right; font-size: 14px; color: #ff4da6;">
+    — Alan Turing
+  </p>
+</div>
 
 ---
 
