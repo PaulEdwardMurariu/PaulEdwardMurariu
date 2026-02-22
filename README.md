@@ -44,32 +44,6 @@ In my free time I enjoy fitness, coding, content creation, cooking, reading, vid
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PaulEdwardMurariu&show_icons=true&theme=radical&hide_border=false&border_radius=4.6"
-    alt="Paul's GitHub stats"
-  />
-</p>
-
-#### 🔥 Streak:
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=PaulEdwardMurariu&theme=radical&hide_border=false&border=FFFFFF&border_radius=4.6"
-    alt="GitHub Streak"
-  />
-</p>
-
-#### 💻 Most Used Languages:
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulEdwardMurariu&layout=compact&theme=radical&hide_border=false&border_radius=4.6"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ### 🧠 Builder Mindset:
 
 <div style="background: linear-gradient(145deg, #0d1117 0%, #0b0f15 100%);
